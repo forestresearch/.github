@@ -1,3 +1,5 @@
+# We have noticed several people have account names that are not identifiable.  Please ensure you are clearly identifiable or we will have to remove your account
+
 # Welcome to Forest Research
 
 Forest Research is Great Britain’s principal organisation for forestry and tree related research.
